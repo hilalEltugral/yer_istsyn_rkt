@@ -1,0 +1,15 @@
+C:\Users\Hilal PC\Desktop\interface\interfaceR\bin\Debug\interfaceR.exe.config
+C:\Users\Hilal PC\Desktop\interface\interfaceR\bin\Debug\interfaceR.exe
+C:\Users\Hilal PC\Desktop\interface\interfaceR\bin\Debug\interfaceR.pdb
+C:\Users\Hilal PC\Desktop\interface\interfaceR\bin\Debug\MaterialSkin.dll
+C:\Users\Hilal PC\Desktop\interface\interfaceR\obj\Debug\interfaceR.csprojAssemblyReference.cache
+C:\Users\Hilal PC\Desktop\interface\interfaceR\obj\Debug\interfaceR.Form1.resources
+C:\Users\Hilal PC\Desktop\interface\interfaceR\obj\Debug\interfaceR.Properties.Resources.resources
+C:\Users\Hilal PC\Desktop\interface\interfaceR\obj\Debug\interfaceR.csproj.GenerateResource.cache
+C:\Users\Hilal PC\Desktop\interface\interfaceR\obj\Debug\interfaceR.csproj.CoreCompileInputs.cache
+C:\Users\Hilal PC\Desktop\interface\interfaceR\obj\Debug\interfaceR.csproj.CopyComplete
+C:\Users\Hilal PC\Desktop\interface\interfaceR\obj\Debug\interfaceR.exe
+C:\Users\Hilal PC\Desktop\interface\interfaceR\obj\Debug\interfaceR.pdb
+C:\Users\Hilal PC\Desktop\interface\interfaceR\obj\Debug\interfaceR.Form2.resources
+C:\Users\Hilal PC\Desktop\interface\interfaceR\bin\Debug\GMap.NET.Core.dll
+C:\Users\Hilal PC\Desktop\interface\interfaceR\bin\Debug\GMap.NET.WindowsForms.dll
